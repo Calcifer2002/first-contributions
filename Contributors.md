@@ -1,6 +1,7 @@
 ﻿# Contributors
  
 - [Abhishek Gautam](https://github.com/gautamabhishek1)
+- [Calcifer](https://github.com/Calcifer2002)
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
