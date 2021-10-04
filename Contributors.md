@@ -220,6 +220,7 @@
 - [Rahillah](https://github.com/AdeptSlice)
 - Tam Nguyen
 - [Arthur King Reyes](https://github.com/arthurkingreyes)
+- [Calcifer2002](https://https://github.com/Calcifer2002)
 - Kumaramanas Nethil
 - [Richard Hu](https://github.com/rhu2001/)
 - [f0hss](https://github.com/f0hss/)
