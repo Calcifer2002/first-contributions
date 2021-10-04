@@ -3,6 +3,7 @@
 - [Abhishek Gautam](https://github.com/gautamabhishek1)
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
+- [Calcifer2002](https://github.com/Calcifer2002)
 - [AminooZ](https://github.com/AminooZ)
 - [cricri777](https://github.com/cricri777)
 - [sm0rux](https://github.com/sm0rux) -[generationXcode](https://github.com/generationXcode)
